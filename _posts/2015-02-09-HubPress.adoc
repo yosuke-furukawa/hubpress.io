@@ -1,0 +1,15 @@
+= HubPress導入メモ
+:published_date: 2015-02-09
+:hp-tags: hubpress, gh-pages
+
+## HubPress 導入メモ
+すごく単純だったのでシェア
+
+0. https://github.com/HubPress/hubpress.io を forkする。
+0. gh-pagesブランチに行く
+0. hubpressフォルダのconfig.jsonを編集する
+0. ユーザー名とリポジトリ名を入れる。
+0. [ユーザー名].github.io/[リポジトリ名]に行く。
+0. 記事を編集したいときは[ユーザー名].github.io/[リポジトリ名]/hubpressに行く
+0. 今ここでこれを書いてるけど、右上の目玉みたいなボタンを押すとリアルタイムプレビューが付いて便利。
+0. セーブするときは右下の保存かな。
